@@ -36,14 +36,4 @@ Here are some of the awesome projects I’ve worked on:
 
 ---
 
-## 📬 Connect With Me!
-
-Let’s connect and create something amazing together! 🌐
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Twitter-1DA1F2?logo=gmail&logoColor=green)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=chrome&logoColor=white)](https://your-portfolio.com)
-
----
-
 Thank you for stopping by! 😊
