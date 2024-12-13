@@ -1,7 +1,5 @@
 # 🌟 Welcome to My GitHub Profile! 👋
 
----
-
 ## 🛠️ Skills & Tools
 
 Here are some of the tools and technologies I love working with:
