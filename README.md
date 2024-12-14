@@ -1,5 +1,18 @@
 # 🌟 Welcome to My GitHub Profile! 👋
 
+Hi there! I'm **[Your Name]**, a passionate [Your Role or Title, e.g., Software Developer] with a love for crafting efficient, scalable, and user-friendly solutions. 🚀 
+
+<p align="center"><img src="https://github.com/goal-eng/goal-eng/blob/main/python.gif" /></p>
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on: [Your Project or Goal]
+- 🌱 I’m currently learning: [Technologies or Skills]
+- 👯 I’m looking to collaborate on: Open-source projects and exciting challenges!
+- 💬 Ask me about: [Key topics you're confident in]
+- 📫 How to reach me: [Your Email or Social Media Links]
+- ⚡ Fun fact: [Something quirky about yourself]
+
 ---
 
 ## 🛠️ Skills & Tools
