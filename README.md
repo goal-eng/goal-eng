@@ -8,12 +8,12 @@ I specialize in crafting seamless **WordPress/WooCommerce websites** and develop
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on: **Custom WordPress solutions and full-stack web applications**.  
-- 🌱 I’m exploring: **Web3, Blockchain Development (Solidity), and advanced cloud technologies**.  
-- 👯 I’m open to collaborating on: **WordPress/WooCommerce projects, Python solutions, and SaaS applications**.  
-- 💬 Ask me about: **WordPress, WooCommerce, Python frameworks, and JavaScript libraries**.  
+- 🔭 I’m currently working on: `**Custom WordPress solutions and full-stack web applications**`.  
+- 🌱 I’m exploring: `**Web3, Blockchain Development (Solidity), and advanced cloud technologies**`.  
+- 👯 I’m open to collaborating on: `**WordPress/WooCommerce projects, Python solutions, and SaaS applications**`.  
+- 💬 Ask me about: `**WordPress, WooCommerce, Python frameworks, and JavaScript libraries**`.  
 - 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
-- ⚡ Fun fact: **I love combining creativity 🎨 with code 💻 to build user-centric solutions**.  
+- ⚡ Fun fact: `**I love combining creativity 🎨 with code 💻 to build user-centric solutions**`.  
 
 ---
 
