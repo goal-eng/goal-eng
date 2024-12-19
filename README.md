@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e0a32f25-24db-47c6-8fac-675d7c6455d8)# 🚀 Welcome to My GitHub Profile! 👋  
+# 🚀 Welcome to My GitHub Profile! 👋  
 
 #### Hi there!👋 I'm **Maksm Maslov**, WordPress & WooCommerce Expert | Python Developer.
 
