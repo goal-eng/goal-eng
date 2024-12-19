@@ -1,4 +1,4 @@
-# 🚀 Welcome to My GitHub Profile! 👋  
+![image](https://github.com/user-attachments/assets/e0a32f25-24db-47c6-8fac-675d7c6455d8)# 🚀 Welcome to My GitHub Profile! 👋  
 
 #### Hi there!👋 I'm **Maksm Maslov**, WordPress & WooCommerce Expert | Python Developer.
 
@@ -12,7 +12,7 @@ I specialize in crafting seamless **WordPress/WooCommerce websites** and develop
 - 🌱 I’m exploring: `Web3, Blockchain Development (Solidity), and advanced cloud technologies`.  
 - 👯 I’m open to collaborating on: `WordPress/WooCommerce projects, Python solutions, and SaaS applications`.  
 - 💬 Ask me about: `WordPress, WooCommerce, Python frameworks, and JavaScript libraries`.  
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📫 How to reach me: [maksymmaslov@outlook.com](mailto:maksymmaslov@outlook.com)
 - ⚡ Fun fact: `I love combining creativity 🎨 with code 💻 to build user-centric solutions`.  
 
 ---
